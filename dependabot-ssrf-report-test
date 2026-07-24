@@ -1,0 +1,7 @@
+<html>
+<body>
+safe response body parse test
+source: https://github.com/ismailYerlikaya/dependabot-ssrf-report-body-target-yln4s
+package: dependabot-ssrf-report-test-ismail-yln4s
+</body>
+</html>
