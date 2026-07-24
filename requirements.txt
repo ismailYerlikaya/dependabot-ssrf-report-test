@@ -1,1 +1,1 @@
-dependabot-ssrf-report-test-ismail-yln4s==0.1.0
+dependabot-ssrf-report-test-ismail-yln4s==0.1.5
